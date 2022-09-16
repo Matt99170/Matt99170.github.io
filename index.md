@@ -1,7 +1,6 @@
- # Data Science - Statistics - Machine Learning
+ # Blog
 ![Data-science-exists-in-the-overlap-between-maths-and-statistics-computer-coding-skills](https://user-images.githubusercontent.com/112013781/190536743-03472ec7-2d10-4856-b770-c597bc11be18.png)
 
-![alt text](https://www.researchgate.net/profile/Mike_Simmons3/publication/336486515/figure/fig1/AS:813433591169024@1570949089131/Data-science-exists-in-the-overlap-between-maths-and-statistics-computer-coding-skills.jpg)
 
 Hello to everyone on the internet world. Thanks for stopping by my blog post. If you want to hear more on about data scientists, statisticians and machine learning engineers then you are in the right place.
 

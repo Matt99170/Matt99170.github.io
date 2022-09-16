@@ -1,5 +1,7 @@
  # Blog
-[](https://matt99170.github.io/Image.png)
+ 
+![Image](https://matt99170.github.io/Image.png)
+
 
 
 Hello to everyone on the internet world. Thanks for stopping by my blog post. If you want to hear more on about data scientists, statisticians and machine learning engineers then you are in the right place.

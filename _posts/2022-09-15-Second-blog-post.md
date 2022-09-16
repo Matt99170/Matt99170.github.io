@@ -1,4 +1,4 @@
-## Second blog post-reflecting on project
+## Second Blog Post - Reflecting On Project 1
 
 Hi guys just finished my first project for ST558. Lets talk about it some more
 

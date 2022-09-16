@@ -2,7 +2,7 @@
 
 Hi guys just finished my first project for ST558. Lets talk about it some more
 
-The overall goal of the first project in ST558 was to write functions that will manipulate and process  different data sets by creating a generic function to automatically plot the returned data. The document was written via R Markdown with outputs to.html. HERE is a link to the project.
+The overall goal of the first project in ST558 was to write functions that will manipulate and process  different data sets by creating a generic function to automatically plot the returned data. The document was written via R Markdown with outputs to.html. [HERE](https://matt99170.github.io/Project1.html) is a link to the project.
 
 I basically learned to write and execute functions in a new programming language of called R. The project was very time consuming and I'm sure I got a few extra gray hairs in my head while completing. Even though I started early and worked very hard on the project it took very long to complete. 
 

@@ -8,4 +8,4 @@ I basically learned to write and execute functions in a new programming language
 
 Being stuck so many times during the project I became good friends with Stackoverflow and Google. What I learnt the most is that they are great friends to have when stuck. 
 
-If I had to start all over with the project I would not underestimate some parts of the project. Thats definately what I would do differently. You think you know how to do something and guess what???? - the code just refuse to run - a whole bunch of errors.  
+If I had to start all over with the project I would not underestimate some parts of the project. Thats definately what I would do differently. You think you know how to do something and guess what???? - the code just refuse to run --- a whole bunch of errors.  

@@ -1,4 +1,4 @@
-## Project 2 Blog Post - ST558
+## Project 2 Blog Post -- ST558
 Answer the following
 • explain what you did in the project and any interesting findings
 • reflect on the process you went through for this project. Discuss things like:

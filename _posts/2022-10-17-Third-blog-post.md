@@ -14,3 +14,5 @@ I have identified a six set startegy to use for EDA.
 The overall goal when doing EDA is to look at the data through descriptive and graphical summaries before making any assumptions. It can help identify erroes and help to better understand the distrinution of the data and any interesting replaionships among the features.
 
 There are four EDA methods namely Univariate Non-Graphical, Univariate Graphical, Multivariate Non-Graphical and Multivariate Graphical. Since graphical methods present a complete pictorial representation of the data I feel that Univariate Graphical (for data with one feature) and Multivariate Graphical (for data with several features) are the more important methods.
+
+While doing EDA some of the more improtant things to look for are missing values, shape/distribution of the data, relationships among the features and outliers.

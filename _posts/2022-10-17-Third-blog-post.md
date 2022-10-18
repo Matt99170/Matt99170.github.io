@@ -17,7 +17,7 @@ There are four EDA methods. These are, Univariate Non-Graphical, Univariate Grap
 
 While doing EDA some of the more important things to look for are missing values, shape/distribution of the data, relationships among the features and outliers.
 
-The following articles four articles are excellent for further reading 
+The following four articles are excellent for further reading 
 
 1. [Shopify Engineering EDA](https://shopify.engineering/conducting-exploratory-data-analysis)
 2. [IBM EDA](https://www.ibm.com/cloud/learn/exploratory-data-analysis)

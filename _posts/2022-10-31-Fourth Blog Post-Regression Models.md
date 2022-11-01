@@ -5,11 +5,20 @@ Variable selection is intended to select the “best” variables to use as pred
 Some popular variable selection algorithms are as follows,
 
 ## Backward elimination (BE)
+
 This is the simplest of all variable selection procedures and can be easily implemented without special
-software. 
-* It usually involves examining all the predictors in the model
+software. It usually involves, 
+* Examining all the predictors in the model
 * Removing the predictor that is the most insignificant
 * Reestimating the model
 * Stop if no more predictors are insignificant.
+
+## Forward Selection (FS)
+
+This just reverses the backward method. It usually involves, 
+* Starting with no variables in the model
+* Include the predictor that is the most significant 
+* Reestimate the model
+* Stop if no more significant predictors can be included.
 
 ## 

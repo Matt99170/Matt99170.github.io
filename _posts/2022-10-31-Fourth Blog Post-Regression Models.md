@@ -40,4 +40,10 @@ While I am still a novice the LASSO selection appears to have some advantages. V
 
 It should be noted that the list of variable selection algorithms listed above are not exhaustive. Further reading can be found the the following articles.
 
+1. [Biometrical Journal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969114/)
+2. [Biostat Teaching resource](https://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch10.pdf)
+3. [Springer publication](https://link.springer.com/content/pdf/10.1057/jt.2009.26.pdf).
+
+
+
 

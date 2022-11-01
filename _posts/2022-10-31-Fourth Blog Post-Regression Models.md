@@ -2,7 +2,7 @@
 
 Variable selection is intended to select the “best” variables to use as predictors. We what to select the best since our aim is to explain the data in the simpliest and easiest way to reduce time and computational cost.
 
-Some popular variable selection algorithms are as follows,
+Some popular variable selection algorithms, that I would use to determine variables to use in a regression model are as follows, 
 
 ## Backward elimination (BE)
 
@@ -21,4 +21,23 @@ This just reverses the backward method. It usually involves,
 * Reestimate the model
 * Stop if no more significant predictors can be included.
 
-## 
+## Stepwise forward
+
+This uses (FS) and (BE). It usually involves,
+* Performing the steps of (FS) but after each inclusion of the predictor that is the most significant and perform the steps of (BE)
+* In subsequent (FS) steps, reconsider the predictors that were removed in former steps
+* Stop if no more predictors can be removed or added.
+
+## Best subset selection
+
+This involves estimating all possible models and choose the best model according to the required criteria.
+
+## LASSO
+
+This involves imposing a penalty on the sum of squares or log likelihood that is equal to the absolute sum of regression coefficients.
+
+While I am still a novice the LASSO selection appears to have some advantages. Variable selection methods often reduce the RMSE of regression coefficients, in particular for weak or noise predictors. This shrinkage effect is quite extreme for LASSO at small sample sizes, which can result in considerably reduced RMSEs of true regression coefficients. Additionally LASSO selection tends to select more predictors than (BE). 
+
+It should be noted that the list of variable selection algorithms listed above are not exhaustive. Further reading can be found the the following articles.
+
+

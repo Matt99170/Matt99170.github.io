@@ -36,7 +36,7 @@ This involves estimating all possible models and choose the best model according
 
 This involves imposing a penalty on the sum of squares or log likelihood that is equal to the absolute sum of regression coefficients.
 
-While I am still a novice the LASSO selection appears to have some advantages. Variable selection methods often reduce the RMSE of regression coefficients, in particular for weak or noise predictors. This shrinkage effect is quite extreme for LASSO at small sample sizes, which can result in considerably reduced RMSEs of true regression coefficients. Additionally LASSO selection tends to select more predictors than (BE). 
+While I am still a novice, the LASSO selection appears to have some advantages. Variable selection methods often reduce the RMSE of regression coefficients, in particular for weak or noise predictors. This shrinkage effect is quite extreme for LASSO at small sample sizes, which can result in considerably reduced RMSEs of true regression coefficients. Additionally LASSO selection tends to select more predictors than (BE). 
 
 It should be noted that the list of variable selection algorithms listed above are not exhaustive. Further reading can be found the the following articles.
 

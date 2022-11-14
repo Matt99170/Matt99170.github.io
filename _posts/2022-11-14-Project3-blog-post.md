@@ -1,6 +1,6 @@
 ## Project 3 Blog Post - ST558
 
-Our goal with this project is to create predictive models and automating Markdown reports. 
+Our goal with this project was to create predictive models and automating Markdown reports. 
 We are using this [Online News Popularity Data Set](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
 This dataset summarizes a heterogeneous set of features about articles published by [Mashable](http://www.mashable.com) in a period of two years. 

@@ -5,7 +5,9 @@ We are using this [Online News Popularity Data Set](https://archive.ics.uci.edu/
 
 This dataset summarizes a heterogeneous set of features about articles published by [Mashable](http://www.mashable.com) in a period of two years. 
 
-Here are the two links to  [The Project](https://github.com/magarittenguyen/ST558_Project3_GroupF) and the repo itself [Here](https://magarittenguyen.github.io/ST558_Project3_GroupF/). 
+Here is the link to [THE PROJECT](https://magarittenguyen.github.io/ST558_Project3_GroupF/) and                
+
+Here is the link the [REPOSITORY](https://github.com/magarittenguyen/ST558_Project3_GroupF)
 
 * what would you do differently?
 

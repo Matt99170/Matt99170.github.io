@@ -13,11 +13,11 @@ Here is the link the [REPOSITORY](https://github.com/magarittenguyen/ST558_Proje
 
 Similar to project 2,  I would have definately get started a little earlier. I was doing exam revision for the midterm test and decided to begin the project after the exam. 
 
-## What was the most difficult part for
+## Most difficult part
 
 The most difficult part was definately the automation to have all six different data_channel_is_* rendered and updated for the relevant data.
 
-## What are your big take-aways from this project
+## Big take-aways from this project
 
 Even though automation is supposed to "make life easier" during this project I questioned on many occasions whether or not writing code to automate is actually easier or more difficult than just doing the analysis six times. Definately next time it should be easier since I have some experience now.
 

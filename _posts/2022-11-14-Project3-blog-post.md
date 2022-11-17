@@ -5,7 +5,7 @@ We are using this [Online News Popularity Data Set](https://archive.ics.uci.edu/
 
 This dataset summarizes a heterogeneous set of features about articles published by [Mashable](http://www.mashable.com) in a period of two years. 
 
-Here are the two links to username.github.io/repo-name site and the repo itself
+Here are the two links to  [The Project](https://github.com/magarittenguyen/ST558_Project3_GroupF) and the repo itself [Regular repository](https://magarittenguyen.github.io/ST558_Project3_GroupF/). 
 
 * what would you do differently?
 
@@ -20,6 +20,3 @@ The most difficult part was definately the automation to have all six different 
 Even though automation is supposed to "make life easier" during this project I questioned on many occasions whether or not writing code to automate is actually easier or more difficult than just doing the analysis six times. Definately next time it should be easier since I have some experience now.
 
 
-[Rendered github pages repository](https://github.com/magarittenguyen/ST558_Project3_GroupF)
-
-[Regular repository](https://magarittenguyen.github.io/ST558_Project3_GroupF/). 

@@ -20,6 +20,6 @@ The most difficult part was definately the automation to have all six different 
 Even though automation is supposed to "make life easier" during this project I questioned on many occasions whether or not writing code to automate is actually easier or more difficult than just doing the analysis six times. Definately next time it should be easier since I have some experience now.
 
 
-[Rendered github pages repository]([https://](https://github.com/magarittenguyen/ST558_Project3_GroupF)
+[Rendered github pages repository](https://github.com/magarittenguyen/ST558_Project3_GroupF)
 
 [Regular repository](https://magarittenguyen.github.io/ST558_Project3_GroupF/). 

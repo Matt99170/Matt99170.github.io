@@ -1,6 +1,6 @@
 ## Project 3 Blog Post - ST558
 
-Our goal with this project was to create predictive models and automating Markdown reports for six different data_channel_is_* (Lifestyle, Entertainment, Business, Social Media, Tech and world) articles. 
+The goal of this project was to create predictive models and automating Markdown reports for six different data_channel_is_* (Lifestyle, Entertainment, Business, Social Media, Tech and world) articles. 
 
 We are using this [Online News Popularity Data Set](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 

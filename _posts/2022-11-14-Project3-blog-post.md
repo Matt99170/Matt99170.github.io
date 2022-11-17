@@ -13,12 +13,11 @@ Similar to project 2,  I would have definately get started a little earlier. I w
 
 * what was the most difficult part for you?
 
-The most difficult part was definately the automation to have all different data_channel_is_* render and updated for the relevant data.
+The most difficult part was definately the automation to have all six different data_channel_is_* renderd and updated for the relevant data.
 
 * what are your big take-aways from this project?
 
-My biggest take aways are to get started earlier, and even though the main purpose of automation in this project is to generate the six different data_channel_is_* markdown reports automatically, I definately felt that the writing code to automate and testing it felt more difficult than just doing the analysis six times.
-
+Even though automation is supposed to "make life easier" during this project I questioned on many occasions whether or not writing code to automate is actually easier or more difficult than just doing the analysis six times. Definately next time it should be easier since I have some experience now.
 
 
 [Rendered github pages repository](https://) 

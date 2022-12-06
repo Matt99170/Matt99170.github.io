@@ -1,4 +1,4 @@
-## Fifth blog post
+## Fifth Blog Post
 
 Wow can you believe it. Almost the end of the course ST558.
 
